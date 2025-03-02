@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing basic Github Flow and Git 
+This branch is about myself, I suppose.
